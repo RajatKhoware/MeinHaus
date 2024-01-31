@@ -1,6 +1,8 @@
 # Meinhaus
 MeinHaus Online General Contractor
- <p <a href='https://play.google.com/store/apps/details?id=ca.meinhaus.app.user&pcampaignid=web_share'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a> </p>
+<div class="play">
+ <a href='https://play.google.com/store/apps/details?id=ca.meinhaus.app.user&pcampaignid=web_share'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a> 
+</div>
 
 ## About
 MeinHaus is a general contractor service. MeinHaus Provides homeowners and trade professionals a safe and standardized environment to exchange services and funds. Simply upload photos and basic descriptions of any project you have in mind, and the MeinHaus team will provide you with detailed estimates, and contact with an experienced team of local Sales and Support construction experts. MeinHaus provides an Android/iOs App interface as well as a dynamic web platform.
