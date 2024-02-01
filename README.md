@@ -1,6 +1,11 @@
-# Meinhaus
-MeinHaus Online General Contractor
-<div class="play">
+# MeinHaus
+<p align="center">
+ <img width="100px" src="https://play-lh.googleusercontent.com/nFMCvS0SW14SEFWc17Wu93v1UY7lix3LOf-RTF_sUx2YmX3lusJq8F75X-VPx9PCJFg=w240-h480-rw" align="center" alt=""/>
+ <h2 align="center">Online General Contractor</h2>
+ <p align="center">A home repairing app with Flutter!</p>
+</p>
+
+<div align="center" class="play">
  <a href='https://play.google.com/store/apps/details?id=ca.meinhaus.app.user&pcampaignid=web_share'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a> 
 </div>
 
