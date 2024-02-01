@@ -34,7 +34,7 @@ MeinHaus is a general contractor service. MeinHaus Provides homeowners and trade
 </div>
 
 
-## Chatting Feature
+<!-- ## Chatting Feature
 
 In the **Chatting Feature** of MeinHaus, users can:
    - Send text messages
@@ -46,9 +46,9 @@ In the **Chatting Feature** of MeinHaus, users can:
 
 ### Preview:
 <div class="row">
-<img src="https://github.com/RajatKhoware/MeinHaus/assets/107408201/63e73da7-10f9-4d04-b82f-805c27422458" width="200" height="400">
+<img src="https://github.com/RajatKhoware/MeinHaus/assets/107408201/63e73da7-10f9-4d04-b82f-805c27422458" width="200" height="400"> 
 </div>
-
+-->
 
 ## Features
 
